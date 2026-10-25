@@ -170,5 +170,5 @@ Run the dashboard:
 
 
 
-Author: \[Sheetal vishwakarma]
+Author: Sheetal vishwakarma
 
